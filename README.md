@@ -39,3 +39,17 @@ pod install
 ```
 npm run ios
 ```
+
+# Preview of challenge IOS
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/56641949/112576221-a66ff080-8dd0-11eb-8841-a492b2a89537.png" width="350">
+  
+  <img src="https://user-images.githubusercontent.com/56641949/112627633-a099ff80-8e10-11eb-8785-998e4fb98450.png" width="350">
+</p>
+
+# Preview of challenge Android
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/56641949/112627845-e48d0480-8e10-11eb-85a5-5ed20c70076a.png" width="350">
+  
+  <img src="https://user-images.githubusercontent.com/56641949/112627908-fa9ac500-8e10-11eb-9a4c-f6b4e48b707b.png" width="350">
+</p>
