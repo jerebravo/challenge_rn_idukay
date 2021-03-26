@@ -1,8 +1,10 @@
 # Challenge RN - Idukay
 Author: Jeremy Bravo
 
-App created with React Native
-https://reactnative.dev/docs/0.63/getting-started
+## Stack used
+* React Native: https://reactnative.dev/docs/0.63/getting-started
+* State management: useContext 
+* Jest: https://jestjs.io/
 ## Android Programs Required
 * Android Studio: https://developer.android.com/studio
 * ADB: https://developer.android.com/studio/command-line/adb
