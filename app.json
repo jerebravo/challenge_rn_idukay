@@ -1,0 +1,12 @@
+{
+  "name": "jb-idukay",
+  "displayName": "jb-idukay",
+  "expo": {
+    "name": "jb-idukay",
+    "slug": "jb-idukay",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
