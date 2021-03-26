@@ -23,6 +23,9 @@ Connect your Android device
  connected through USB, make sure 'File Transfer' is enabled.
 ##### Run with command line
 ```
+npm run start
+```
+```
 npm run android
 ```
 ### Running test Jest
