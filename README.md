@@ -8,7 +8,7 @@ Author: Jeremy Bravo
 ## Android Programs Required
 * Android Studio: https://developer.android.com/studio
 * ADB: https://developer.android.com/studio/command-line/adb
-## Mac Programs Required
+## IOS Programs Required
 * Xcode: https://developer.apple.com/xcode/ (For building and simulator)
 * CocoaPods: https://cocoapods.org/ (RubyGem for Xcode dependencies)
 ## First Run
